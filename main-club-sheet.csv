@@ -1,0 +1,51 @@
+name,username,password,phoneNumber,address,paymentStatus,timesAttended,timesPaid,timesUnpaid,getLoyaltyDisc,noSkip,multNoPay,AccountType,amountPaid,amountDue,monthlyRent,coachPayment,donations,profits,advancedPayment,latePayment
+Peers Masterson,peers,password,4161262237,4145 Meadow Lane,0,47,46,1,1,0,0,member,30,10,250,200,750,1880,0,FALSE
+Lorin Preston,lorinpreston,password,4161462257,3031 Crestview Terrace,0,45,40,5,1,1,1,member,30,10,,,,,0,TRUE
+Freida Foster,freidafoster,password,4161142225,1395 Quilly Lane,1,45,42,3,1,1,1,member,20,20,,,,,0,TRUE
+Alma Michaels,almam,password,4161412252,4259 Lucky Duck Drive,1,44,43,1,1,0,0,member,30,10,,,,,0,FALSE
+Margo Kellogg,mkellogg,password,4161272238,1594 Hott Street,0,41,40,1,1,0,0,member,30,10,,,,,0,TRUE
+Dexter Morgan,bhb,password,4161332244,1370 Hudson Street,1,40,40,0,1,0,0,member,40,0,,,,,1,FALSE
+Hattie Royston,hattier,password,4161392250,4873 Mercer Street,0,39,38,1,1,1,0,member,30,10,,,,,0,TRUE
+Rachel Trengove,racheltren,password,4161302241,2269 Gambler Lane,1,39,39,0,1,1,0,member,40,0,,,,,1,FALSE
+Paisley Thomas,paisleythomas,password,4161432254,2026 Stone Lane,1,39,39,0,1,1,0,member,40,0,,,,,0,FALSE
+Dan Dennis,ddennis,password,4161502261,1602 Holt Street,1,35,35,0,1,1,0,member,40,0,,,,,0,FALSE
+Len Rains,rainydays,password,4161152226,2655 Hidden Valley Road,0,34,33,1,0,0,0,member,30,10,,,,,0,TRUE
+Sibyl Fowler,sfowler,password,4161592270,3914 Jefferson Street,1,34,34,0,1,0,0,member,40,0,,,,,1,FALSE
+Noelle Langley,langleyn,password,4161422253,387 Glen Falls Road,1,33,33,0,0,0,0,member,40,0,,,,,1,FALSE
+Adrianna Caldwell,adriannac,password,4161192230,165 Jenna Lane,1,32,31,1,0,1,0,member,20,10,,,,,0,TRUE
+Cherry Gary,cherryg,password,4161542265,3275 Turkey Pen Lane,1,31,31,0,0,0,0,member,40,0,,,,,1,FALSE
+kelly Hutchinson,kellyhutch,password,4161312242,1796 Davis Avenue,0,29,28,1,0,1,0,member,30,10,,,,,0,FALSE
+Gracie Stanford,graciestanford,password,4161512262,1540 Hickory Heights Drive,1,27,27,2,0,1,0,member,40,0,,,,,0,FALSE
+Brandy Tiff,brandytiff,password,4161582269,4937 Sycamore Fork Road,1,27,27,0,0,1,0,member,40,0,,,,,0,FALSE
+Kelan Wembley,kelanwem,password,4161232234,4966 Harper Street,0,24,23,1,0,1,0,member,30,10,,,,,0,FALSE
+Paige Lewis,paigelewis,password,4161112222,2337 Sugar Camp Road,0,23,20,3,0,1,1,member,20,10,,,,,0,TRUE
+Cal Simmons,simmonscal,password,4161292240,2047 Saint Clair Street,1,23,23,0,0,0,0,member,40,0,,,,,1,FALSE
+Alfred Lucas,lucusa,password,4161482259,3181 Kelly Street,1,22,22,0,0,0,0,member,40,0,,,,,1,FALSE
+Benji Robinson,brobinson,password,4161532264,2725 Rocky Road,1,21,20,1,0,0,0,member,30,10,,,,,0,TRUE
+Gideon Haley,gideonhaley,password,4161282239,29 Philli Lane,0,20,16,4,0,0,1,member,0,40,,,,,0,TRUE
+Leila Cullen,leilacullen,password,4161372248,2584 Massachusetts Avenue,1,18,18,0,0,0,0,member,40,0,,,,,1,FALSE
+Pheobe Head,pheobehead,password,4161202231,1828 Stroop Hill Road,0,17,15,2,0,0,1,member,20,20,,,,,0,TRUE
+Floella Pocock,floella,password,4161182229,534 Highland View Drive,1,16,16,0,0,1,0,member,30,10,,,,,0,FALSE
+Tara Haley,thaley,password,4161522263,2095 Station Street,1,16,16,0,0,1,0,member,40,40,,,,,0,FALSE
+Allie Gibson,agibson,password,4161572268,4101 Berry Street,0,15,12,3,0,1,1,member,20,20,,,,,0,TRUE
+Matthew Jacobs,mjacobs,password,4161452256,3914 Delaware Avenue,1,15,15,0,0,1,0,member,40,0,,,,,0,FALSE
+Barbara Tyler,barbarat,password,4161492260,4334 Robinson Court,0,14,12,2,0,1,1,member,30,10,,,,,0,TRUE
+Reuben Ayton,reubenayton,password,4161382249,4282 Farnum Road,1,14,14,0,0,0,0,member,40,0,,,,,1,FALSE
+Shannon Mullins,shannonm,password,4161322243,125 Glendale Avenue,1,13,10,3,0,1,1,member,10,20,,,,,0,TRUE
+Otis Moore,otismoore,password,4161472258,252 Cherry Camp Road,0,13,12,1,0,0,0,member,30,10,,,,,0,FALSE
+Gemma Fitzroy,gemmaf,password,4161122223,2102 Zimmerman Lane,1,11,11,0,0,1,0,member,40,0,,,,,0,FALSE
+Celine Marley,celinem,password,4161212232,828 Pooh Bear Lane,0,10,9,1,0,0,0,member,20,10,,,,,0,FALSE
+Cleo Haines,cleohaines,password,4161362247,2536 Cecil Street,1,10,10,0,0,1,0,member,40,0,,,,,1,FALSE
+Elwyn Martel,elwynmartel,password,4161342245,2923 Columbia Road,1,9,9,0,0,1,0,member,20,0,,,,,1,FALSE
+Blanch Parish,parishb,password,4161402251,562 Newton Street,0,8,6,2,0,1,1,member,10,10,,,,,0,FALSE
+Quincy North,qnorth,password,4161222233,4650 Church Street,1,8,8,0,0,1,0,member,40,0,,,,,0,FALSE
+Isabelle Dean,isabelledean,password,4161562267,2300 Clarksburg Park Road,0,7,6,1,0,1,0,member,30,10,,,,,0,FALSE
+Lacey Burton,laceyburton,password,4161252236,3929 Thunder Road,1,6,6,0,0,0,0,member,40,0,,,,,0,FALSE
+Barb Powers,powersb,password,4161442255,267 Blackwell Street,1,5,5,0,0,0,0,member,40,0,,,,,1,FALSE
+Kaye Neil,kneil,password,4161552266,1148 Progress Way,0,4,3,1,0,1,0,member,30,10,,,,,0,FALSE
+Iris Lukeson,irisflower,password,4161172228,4440 B Street,1,3,3,0,0,1,0,member,40,0,,,,,1,FALSE
+Evelynn Young,evyoung,password,4161242235,4663 Bedford Street,1,3,3,0,0,1,0,member,40,0,,,,,1,FALSE
+Valaray Kay,valk,password,4161132224,299 Nelm Street,1,2,2,0,0,1,0,member,40,0,,,,,0,
+Davy Ivers,davyjones,password,4161162227,4258 Modoc Alley,1,2,2,0,0,1,0,member,60,0,,,,,1,
+Kerri Leon,kerrileon,password,4161352246,4252 Meadow Lane,1,2,2,0,0,0,0,coach,20,0,,,,,0,
+,,,,,,,,,,,,,1580,340,,,,,,
